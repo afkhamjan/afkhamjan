@@ -3,6 +3,9 @@ I have my majors in Computer science<br>I'm currently working on web development
 
 
 ## 🌐 Socials:
+
+portfolio: https://afkham-portfolio.netlify.app/
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afkham-jan-347229376/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/afkham jan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Afkham Jan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afkhamjan7@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +15,9 @@ I have my majors in Computer science<br>I'm currently working on web development
 ![](https://nirzak-streak-stats.vercel.app/?user=afkhamjan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afkhamjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo 
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=afkhamjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
